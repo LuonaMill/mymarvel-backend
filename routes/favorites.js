@@ -1,6 +1,5 @@
 const express = require("express");
 const router = express.Router();
-// const axios = require("axios");
 
 const Favorite = require("../models/Favorite");
 const User = require("../models/User");
